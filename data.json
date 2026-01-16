@@ -1,0 +1,1717 @@
+{
+  "988705655630221313": {
+    "totalPulls": 280,
+    "★6": 9,
+    "★5": 17,
+    "★4": 19,
+    "★3": 14,
+    "★2": 29,
+    "★1": 182,
+    "history": [
+      {
+        "roleId": "1461249369591513262",
+        "rank": "★4",
+        "timestamp": 1768552824209
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "timestamp": 1768552924494
+      },
+      {
+        "roleId": "1461513389862944943",
+        "rank": "★2",
+        "timestamp": 1768553706430
+      },
+      {
+        "roleId": "1461132955500937258",
+        "rank": "★2",
+        "coinType": "free",
+        "timestamp": 1768559660873
+      },
+      {
+        "roleId": "1461134616730669257",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768559668887
+      },
+      {
+        "roleId": "1461134616730669257",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768559680730
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768559689433
+      },
+      {
+        "roleId": "1461510682913538109",
+        "rank": "★3",
+        "coinType": "normal",
+        "timestamp": 1768559710921
+      },
+      {
+        "roleId": "1461134616730669257",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768559720115
+      },
+      {
+        "roleId": "1461510682913538109",
+        "rank": "★3",
+        "coinType": "normal",
+        "timestamp": 1768560323671
+      },
+      {
+        "roleId": "1461132955500937258",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768560324025
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768560324294
+      },
+      {
+        "roleId": "1461132955500937258",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768560324633
+      },
+      {
+        "roleId": "1461132955500937258",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768560324936
+      },
+      {
+        "roleId": "1461132955500937258",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768560325242
+      },
+      {
+        "roleId": "1461513948326133811",
+        "rank": "★3",
+        "coinType": "normal",
+        "timestamp": 1768560325615
+      },
+      {
+        "roleId": "1461514094241648980",
+        "rank": "★4",
+        "coinType": "normal",
+        "timestamp": 1768560325951
+      },
+      {
+        "roleId": "1461514094241648980",
+        "rank": "★4",
+        "coinType": "normal",
+        "timestamp": 1768560326339
+      },
+      {
+        "roleId": "1461514329428984014",
+        "rank": "★6",
+        "coinType": "normal",
+        "timestamp": 1768560326672
+      },
+      {
+        "roleId": "1461134616730669257",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768560768437,
+        "pullsSinceLast6": 0
+      },
+      {
+        "roleId": "1461513389862944943",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768560768703,
+        "pullsSinceLast6": 1
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768560768955,
+        "pullsSinceLast6": 2
+      },
+      {
+        "roleId": "1461510511639396523",
+        "rank": "★5",
+        "coinType": "normal",
+        "timestamp": 1768560769353,
+        "pullsSinceLast6": 3
+      },
+      {
+        "roleId": "1461510682913538109",
+        "rank": "★3",
+        "coinType": "normal",
+        "timestamp": 1768560769696,
+        "pullsSinceLast6": 4
+      },
+      {
+        "roleId": "1461513948326133811",
+        "rank": "★3",
+        "coinType": "normal",
+        "timestamp": 1768560770038,
+        "pullsSinceLast6": 5
+      },
+      {
+        "roleId": "1461134616730669257",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768560770295,
+        "pullsSinceLast6": 6
+      },
+      {
+        "roleId": "1461249369591513262",
+        "rank": "★4",
+        "coinType": "normal",
+        "timestamp": 1768560770812,
+        "pullsSinceLast6": 7
+      },
+      {
+        "roleId": "1461514094241648980",
+        "rank": "★4",
+        "coinType": "normal",
+        "timestamp": 1768560771170,
+        "pullsSinceLast6": 8
+      },
+      {
+        "roleId": "1461514329428984014",
+        "rank": "★6",
+        "coinType": "normal",
+        "timestamp": 1768560771420,
+        "pullsSinceLast6": 9
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768560795085,
+        "pullsSinceLast6": 0
+      },
+      {
+        "roleId": "1461134616730669257",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768560795374,
+        "pullsSinceLast6": 1
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768560795846,
+        "pullsSinceLast6": 2
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768560796203,
+        "pullsSinceLast6": 3
+      },
+      {
+        "roleId": "1461514094241648980",
+        "rank": "★4",
+        "coinType": "normal",
+        "timestamp": 1768560796458,
+        "pullsSinceLast6": 4
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768560796728,
+        "pullsSinceLast6": 5
+      },
+      {
+        "roleId": "1461132955500937258",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768560796990,
+        "pullsSinceLast6": 6
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768560797258,
+        "pullsSinceLast6": 7
+      },
+      {
+        "roleId": "1461020809819717805",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768560797705,
+        "pullsSinceLast6": 8
+      },
+      {
+        "roleId": "1461514329428984014",
+        "rank": "★6",
+        "coinType": "normal",
+        "timestamp": 1768560797954,
+        "pullsSinceLast6": 9
+      },
+      {
+        "roleId": "1461513389862944943",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768561903873
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768561910079
+      },
+      {
+        "roleId": "1461511222959804540",
+        "rank": "★4",
+        "coinType": "normal",
+        "timestamp": 1768561910608
+      },
+      {
+        "roleId": "1461132955500937258",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768561910883
+      },
+      {
+        "roleId": "1461134616730669257",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768561911175
+      },
+      {
+        "roleId": "1461513948326133811",
+        "rank": "★3",
+        "coinType": "normal",
+        "timestamp": 1768561911433
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768561911701
+      },
+      {
+        "roleId": "1461134616730669257",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768561911997
+      },
+      {
+        "roleId": "1461513389862944943",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768561912326
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768561912677
+      },
+      {
+        "roleId": "1461510511639396523",
+        "rank": "★5",
+        "coinType": "normal",
+        "timestamp": 1768561914361
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768561920725
+      },
+      {
+        "roleId": "1461132955500937258",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768561921062
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768561921354
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768561921670
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768561922004
+      },
+      {
+        "roleId": "1461513389862944943",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768561922272
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768561922709
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768561923009
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768561923294
+      },
+      {
+        "roleId": "1461511443156570235",
+        "rank": "★5",
+        "coinType": "normal",
+        "timestamp": 1768561924779
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768561932214
+      },
+      {
+        "roleId": "1461132955500937258",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768561932498
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768561932903
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768561933194
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768561933512
+      },
+      {
+        "roleId": "1461514094241648980",
+        "rank": "★4",
+        "coinType": "normal",
+        "timestamp": 1768561933867
+      },
+      {
+        "roleId": "1461514329428984014",
+        "rank": "★6",
+        "coinType": "normal",
+        "timestamp": 1768561934121
+      },
+      {
+        "roleId": "1461511222959804540",
+        "rank": "★4",
+        "coinType": "normal",
+        "timestamp": 1768561934415
+      },
+      {
+        "roleId": "1461132955500937258",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768561934712
+      },
+      {
+        "roleId": "1461514329428984014",
+        "rank": "★6",
+        "coinType": "normal",
+        "timestamp": 1768561935182
+      },
+      {
+        "roleId": "1461514094241648980",
+        "rank": "★4",
+        "coinType": "normal",
+        "timestamp": 1768561953546
+      },
+      {
+        "roleId": "1461132955500937258",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768561953836
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768561954142
+      },
+      {
+        "roleId": "1461134616730669257",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768561954454
+      },
+      {
+        "roleId": "1461510682913538109",
+        "rank": "★3",
+        "coinType": "normal",
+        "timestamp": 1768561954763
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768561955042
+      },
+      {
+        "roleId": "1461510682913538109",
+        "rank": "★3",
+        "coinType": "normal",
+        "timestamp": 1768561955366
+      },
+      {
+        "roleId": "1461249369591513262",
+        "rank": "★4",
+        "coinType": "normal",
+        "timestamp": 1768561955651
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768561955986
+      },
+      {
+        "roleId": "1461514329428984014",
+        "rank": "★6",
+        "coinType": "normal",
+        "timestamp": 1768561956393
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768561968107
+      },
+      {
+        "roleId": "1461510269199974666",
+        "rank": "★4",
+        "coinType": "normal",
+        "timestamp": 1768561968444
+      },
+      {
+        "roleId": "1461510682913538109",
+        "rank": "★3",
+        "coinType": "normal",
+        "timestamp": 1768561968790
+      },
+      {
+        "roleId": "1461132955500937258",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768561969117
+      },
+      {
+        "roleId": "1461510511639396523",
+        "rank": "★5",
+        "coinType": "normal",
+        "timestamp": 1768561969410
+      },
+      {
+        "roleId": "1461510682913538109",
+        "rank": "★3",
+        "coinType": "normal",
+        "timestamp": 1768561969837
+      },
+      {
+        "roleId": "1461510682913538109",
+        "rank": "★3",
+        "coinType": "normal",
+        "timestamp": 1768561970107
+      },
+      {
+        "roleId": "1461514094241648980",
+        "rank": "★4",
+        "coinType": "normal",
+        "timestamp": 1768561970458
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768561970789
+      },
+      {
+        "roleId": "1461510511639396523",
+        "rank": "★5",
+        "coinType": "normal",
+        "timestamp": 1768561971052
+      },
+      {
+        "roleId": "1461134616730669257",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768562493311
+      },
+      {
+        "roleId": "none",
+        "rank": null,
+        "coinType": "normal",
+        "timestamp": 1768562493313
+      },
+      {
+        "roleId": "none",
+        "rank": null,
+        "coinType": "normal",
+        "timestamp": 1768562493313
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562493584
+      },
+      {
+        "roleId": "none",
+        "rank": null,
+        "coinType": "normal",
+        "timestamp": 1768562493585
+      },
+      {
+        "roleId": "none",
+        "rank": null,
+        "coinType": "normal",
+        "timestamp": 1768562493586
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562493875
+      },
+      {
+        "roleId": "none",
+        "rank": null,
+        "coinType": "normal",
+        "timestamp": 1768562493876
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562494152
+      },
+      {
+        "roleId": "1461511443156570235",
+        "rank": "★5",
+        "coinType": "normal",
+        "timestamp": 1768562494434
+      },
+      {
+        "roleId": "none",
+        "rank": null,
+        "coinType": "normal",
+        "timestamp": 1768562551650
+      },
+      {
+        "roleId": "none",
+        "rank": null,
+        "coinType": "normal",
+        "timestamp": 1768562551651
+      },
+      {
+        "roleId": "1461020809819717805",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562552012
+      },
+      {
+        "roleId": "1461134616730669257",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768562552276
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562552642
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562553016
+      },
+      {
+        "roleId": "none",
+        "rank": null,
+        "coinType": "normal",
+        "timestamp": 1768562553017
+      },
+      {
+        "roleId": "none",
+        "rank": null,
+        "coinType": "normal",
+        "timestamp": 1768562553018
+      },
+      {
+        "roleId": "none",
+        "rank": null,
+        "coinType": "normal",
+        "timestamp": 1768562553018
+      },
+      {
+        "roleId": "1461514329428984014",
+        "rank": "★6",
+        "coinType": "normal",
+        "timestamp": 1768562553420
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562798302
+      },
+      {
+        "roleId": "1461510682913538109",
+        "rank": "★3",
+        "coinType": "normal",
+        "timestamp": 1768562798787
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562799041
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562799369
+      },
+      {
+        "roleId": "1461020809819717805",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562799676
+      },
+      {
+        "roleId": "1461020809819717805",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562799945
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562800260
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562800548
+      },
+      {
+        "roleId": "1461510682913538109",
+        "rank": "★3",
+        "coinType": "normal",
+        "timestamp": 1768562800835
+      },
+      {
+        "roleId": "1461511222959804540",
+        "rank": "★4",
+        "coinType": "normal",
+        "timestamp": 1768562801169
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562808668
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562809020
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562809300
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562810007
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562810433
+      },
+      {
+        "roleId": "1461020809819717805",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562810798
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562811119
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562811586
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562811956
+      },
+      {
+        "roleId": "1461510269199974666",
+        "rank": "★4",
+        "coinType": "normal",
+        "timestamp": 1768562812310
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562819113
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562819485
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562819850
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562820265
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562820597
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562820849
+      },
+      {
+        "roleId": "1461020809819717805",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562821127
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562821427
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562823381
+      },
+      {
+        "roleId": "1461511443156570235",
+        "rank": "★5",
+        "coinType": "normal",
+        "timestamp": 1768562823692
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562829535
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562829944
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562830250
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562830603
+      },
+      {
+        "roleId": "1461020809819717805",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562830937
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562831519
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562831782
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562832067
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562832331
+      },
+      {
+        "roleId": "1461510511639396523",
+        "rank": "★5",
+        "coinType": "normal",
+        "timestamp": 1768562832723
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562840006
+      },
+      {
+        "roleId": "1461020809819717805",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562840294
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562840679
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562840926
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562841224
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562841497
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562841899
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562842185
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562842548
+      },
+      {
+        "roleId": "1461510269199974666",
+        "rank": "★4",
+        "coinType": "normal",
+        "timestamp": 1768562842881
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562850469
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562850788
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562851228
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562851480
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562851802
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562852159
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562852457
+      },
+      {
+        "roleId": "1461020809819717805",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562852719
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562853023
+      },
+      {
+        "roleId": "1461510511639396523",
+        "rank": "★5",
+        "coinType": "normal",
+        "timestamp": 1768562853277
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562860958
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562861216
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562861493
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562861974
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562862251
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562862517
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562862998
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562863240
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562863526
+      },
+      {
+        "roleId": "1461514329428984014",
+        "rank": "★6",
+        "coinType": "normal",
+        "timestamp": 1768562863801
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562873747
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562874064
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562874363
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562874638
+      },
+      {
+        "roleId": "1461020809819717805",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562874951
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562875281
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562875867
+      },
+      {
+        "roleId": "1461020809819717805",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562876340
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562876721
+      },
+      {
+        "roleId": "1461511443156570235",
+        "rank": "★5",
+        "coinType": "normal",
+        "timestamp": 1768562876976
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562884373
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562884959
+      },
+      {
+        "roleId": "1461020809819717805",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562885529
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562886085
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562886698
+      },
+      {
+        "roleId": "1461020809819717805",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562894820
+      },
+      {
+        "roleId": "1461020809819717805",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562895543
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562896211
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562896840
+      },
+      {
+        "roleId": "1461510511639396523",
+        "rank": "★5",
+        "coinType": "normal",
+        "timestamp": 1768562897566
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562904970
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562905427
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562905750
+      },
+      {
+        "roleId": "1461513948326133811",
+        "rank": "★3",
+        "coinType": "normal",
+        "timestamp": 1768562906028
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562906370
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562906640
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562906912
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562907189
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562907465
+      },
+      {
+        "roleId": "1461511443156570235",
+        "rank": "★5",
+        "coinType": "normal",
+        "timestamp": 1768562907812
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562915405
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562915764
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562916040
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562916358
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562916645
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562917017
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562917307
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562917557
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562917854
+      },
+      {
+        "roleId": "1461510511639396523",
+        "rank": "★5",
+        "coinType": "normal",
+        "timestamp": 1768562918133
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562925812
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562926142
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562926410
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562926668
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562926965
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562927298
+      },
+      {
+        "roleId": "1461020809819717805",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562927602
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562927939
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562928219
+      },
+      {
+        "roleId": "1461249369591513262",
+        "rank": "★4",
+        "coinType": "normal",
+        "timestamp": 1768562928593
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562936422
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562936711
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562937059
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562937315
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562937707
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562937964
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562938218
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562938583
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562938857
+      },
+      {
+        "roleId": "1461514094241648980",
+        "rank": "★4",
+        "coinType": "normal",
+        "timestamp": 1768562939154
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562946761
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562947055
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562947374
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562947641
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562947907
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562948214
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562948625
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562948897
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562949170
+      },
+      {
+        "roleId": "1461511443156570235",
+        "rank": "★5",
+        "coinType": "normal",
+        "timestamp": 1768562949444
+      },
+      {
+        "roleId": "1461134616730669257",
+        "rank": "★2",
+        "coinType": "normal",
+        "timestamp": 1768562964665
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562964998
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562965306
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562965583
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562965936
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562966203
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562966510
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562966831
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562967128
+      },
+      {
+        "roleId": "1461510511639396523",
+        "rank": "★5",
+        "coinType": "normal",
+        "timestamp": 1768562967435
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562988449
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562988788
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562989158
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562989553
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562989830
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562990140
+      },
+      {
+        "roleId": "1461020736662667386",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562990417
+      },
+      {
+        "roleId": "1461021029907431424",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562990796
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562991054
+      },
+      {
+        "roleId": "1461249369591513262",
+        "rank": "★4",
+        "coinType": "normal",
+        "timestamp": 1768562991330
+      },
+      {
+        "roleId": "1461511443156570235",
+        "rank": "★5",
+        "coinType": "normal",
+        "timestamp": 1768562998925
+      },
+      {
+        "roleId": "1461514329428984014",
+        "rank": "★6",
+        "coinType": "normal",
+        "timestamp": 1768562999299
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562999557
+      },
+      {
+        "roleId": "1461020916220694744",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768562999895
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768563000194
+      },
+      {
+        "roleId": "1461020665657294912",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768563000701
+      },
+      {
+        "roleId": "1461020809819717805",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768563001028
+      },
+      {
+        "roleId": "1461020616990654567",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768563001329
+      },
+      {
+        "roleId": "1461020527505444985",
+        "rank": "★1",
+        "coinType": "normal",
+        "timestamp": 1768563001677
+      },
+      {
+        "roleId": "1461511443156570235",
+        "rank": "★5",
+        "coinType": "normal",
+        "timestamp": 1768563001962
+      }
+    ],
+    "coins": {
+      "normal": 189,
+      "special": 0
+    },
+    "lastFreePull": 1768559660579,
+    "pullsSinceLast6": 8,
+    "null": 5
+  }
+}

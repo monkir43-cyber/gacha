@@ -1,0 +1,24 @@
+client.on('interactionCreate', async interaction => {
+  if (!interaction.isChatInputCommand()) return;
+  if (interaction.commandName === 'gacha-rank') {
+    const data = loadData();
+
+    // ★6獲得数順でトップ5を取得
+    const topUsers = Object.entries(data)
+      .sort(([, a], [, b]) => b["★6"] - a["★6"])
+      .slice(0, 5);
+
+    let description = '';
+    for (let i = 0; i < topUsers.length; i++) {
+      const [userId, info] = topUsers[i];
+      description += `${i+1}. <@${userId}> - ★6: ${info["★6"]}, 総ガチャ: ${info.totalPulls}\n`;
+    }
+
+    const embed = new EmbedBuilder()
+      .setTitle('🎖️ ★6ランキング')
+      .setDescription(description || 'まだ誰も引いていません')
+      .setColor(0xFFD700);
+
+    interaction.reply({ embeds: [embed] });
+  }
+});
